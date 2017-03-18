@@ -5,7 +5,7 @@
 </head>
 
 <body>
-	<?php echo '<p>Hola Jazmin Rendon/p>'; ?>
+	<?php echo '<p>Hola Jazmin Rendon</p>'; ?>
 </body>
 
 </html>
